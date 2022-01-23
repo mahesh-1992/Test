@@ -14,6 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -28,6 +29,7 @@ public class BaseClass {
 	public String username=readconfig.getUsername();
 	public String password=readconfig.getPassword();
 	public static WebDriver driver;
+	public static WebDriverWait wait;
 	
 	public static Logger logger;
 	
@@ -35,7 +37,7 @@ public class BaseClass {
 	@BeforeClass
 	public void setup(String br)
 	{			
-		logger = Logger.getLogger("ebanking");
+		logger = Logger.getLogger("facebook");
 		PropertyConfigurator.configure("Log4j.properties");
 		
 		if(br.equals("chrome"))
@@ -54,7 +56,8 @@ public class BaseClass {
 			driver = new InternetExplorerDriver();
 		}
 		
-		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
+		wait=new WebDriverWait(driver,20);
 		driver.get(baseURL);
 	}
 	

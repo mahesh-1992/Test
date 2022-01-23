@@ -125,3 +125,73 @@
 2018-11-27 07:55:42,851 - ebanking -INFO - providing customer details....
 2018-11-27 07:55:58,716 - ebanking -INFO - validation started....
 2018-11-27 07:55:58,749 - ebanking -INFO - test case passed....
+2021-10-29 15:47:44,009 - facebook -INFO - URL is opened
+2021-10-29 15:47:44,439 - facebook -INFO - Entered username
+2021-10-29 15:47:44,729 - facebook -INFO - Entered password
+2021-10-29 15:58:53,949 - facebook -INFO - URL is opened
+2021-10-29 15:58:54,331 - facebook -INFO - Entered username
+2021-10-29 15:58:54,682 - facebook -INFO - Entered password
+2021-10-29 16:12:32,827 - facebook -INFO - URL is opened
+2021-10-29 16:12:33,250 - facebook -INFO - Entered username
+2021-10-29 16:12:33,535 - facebook -INFO - Entered password
+2021-10-29 16:16:46,918 - facebook -INFO - URL is opened
+2021-10-29 16:16:47,349 - facebook -INFO - Entered username
+2021-10-29 16:16:47,671 - facebook -INFO - Entered password
+2021-10-29 16:27:11,777 - facebook -INFO - URL is opened
+2021-10-29 16:27:12,218 - facebook -INFO - Entered username
+2021-10-29 16:27:12,575 - facebook -INFO - Entered password
+2021-10-29 16:31:21,704 - facebook -INFO - URL is opened
+2021-10-29 16:31:22,124 - facebook -INFO - Entered username
+2021-10-29 16:31:22,416 - facebook -INFO - Entered password
+2021-10-29 16:33:59,905 - facebook -INFO - URL is opened
+2021-10-29 16:34:00,310 - facebook -INFO - Entered username
+2021-10-29 16:34:00,651 - facebook -INFO - Entered password
+2021-10-29 16:35:15,445 - facebook -INFO - URL is opened
+2021-10-29 16:35:15,815 - facebook -INFO - Entered username
+2021-10-29 16:35:16,197 - facebook -INFO - Entered password
+2021-10-29 16:36:16,251 - facebook -INFO - URL is opened
+2021-10-29 16:36:16,681 - facebook -INFO - Entered username
+2021-10-29 16:36:16,993 - facebook -INFO - Entered password
+2021-10-29 17:13:36,163 - facebook -INFO - URL is opened
+2021-10-29 17:13:36,567 - facebook -INFO - Entered username
+2021-10-29 17:13:36,899 - facebook -INFO - Entered password
+2021-11-13 11:45:55,420 - facebook -INFO - URL is opened
+2021-11-13 11:45:55,840 - facebook -INFO - Entered username
+2021-11-13 11:45:56,128 - facebook -INFO - Entered password
+2021-11-16 16:12:56,192 - facebook -INFO - URL is opened
+2021-11-16 16:12:56,630 - facebook -INFO - Entered username
+2021-11-16 16:12:56,922 - facebook -INFO - Entered password
+2021-11-16 16:14:04,974 - facebook -INFO - URL is opened
+2021-11-16 16:14:05,376 - facebook -INFO - Entered username
+2021-11-16 16:14:05,674 - facebook -INFO - Entered password
+2021-11-19 10:32:29,692 - facebook -INFO - URL is opened
+2021-11-19 10:32:30,191 - facebook -INFO - Entered username
+2021-11-19 10:32:30,499 - facebook -INFO - Entered password
+2021-12-02 20:27:18,482 - facebook -INFO - URL is opened
+2021-12-02 20:27:18,871 - facebook -INFO - Entered username
+2021-12-02 20:27:19,174 - facebook -INFO - Entered password
+2021-12-02 20:27:40,037 - facebook -INFO - logout pass
+2021-12-02 20:28:54,228 - facebook -INFO - URL is opened
+2021-12-02 20:28:54,629 - facebook -INFO - Entered username
+2021-12-02 20:28:54,979 - facebook -INFO - Entered password
+2021-12-02 20:30:32,709 - facebook -INFO - URL is opened
+2021-12-02 20:30:33,101 - facebook -INFO - Entered username
+2021-12-02 20:30:33,384 - facebook -INFO - Entered password
+2021-12-02 20:31:14,890 - facebook -INFO - URL is opened
+2021-12-02 20:31:15,348 - facebook -INFO - Entered username
+2021-12-02 20:31:15,672 - facebook -INFO - Entered password
+2021-12-02 20:37:09,406 - facebook -INFO - URL is opened
+2021-12-02 20:37:09,787 - facebook -INFO - Entered username
+2021-12-02 20:37:10,137 - facebook -INFO - Entered password
+2021-12-02 20:38:45,661 - facebook -INFO - URL is opened
+2021-12-02 20:38:46,053 - facebook -INFO - Entered username
+2021-12-02 20:38:46,369 - facebook -INFO - Entered password
+2021-12-02 20:44:11,345 - facebook -INFO - URL is opened
+2021-12-02 20:44:11,962 - facebook -INFO - Entered username
+2021-12-02 20:44:12,299 - facebook -INFO - Entered password
+2021-12-02 20:46:22,805 - facebook -INFO - URL is opened
+2021-12-02 20:46:23,253 - facebook -INFO - Entered username
+2021-12-02 20:46:23,538 - facebook -INFO - Entered password
+2021-12-02 20:48:15,846 - facebook -INFO - URL is opened
+2021-12-02 20:48:16,267 - facebook -INFO - Entered username
+2021-12-02 20:48:16,608 - facebook -INFO - Entered password

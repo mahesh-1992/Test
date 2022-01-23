@@ -16,20 +16,24 @@ public class LoginPage {
 		PageFactory.initElements(rdriver, this);
 	}
 		
-	@FindBy(name="uid")
+	@FindBy(id="email")
 	@CacheLookup
 	WebElement txtUserName;
 	
-	@FindBy(name="password")
+	@FindBy(name="pass")
 	@CacheLookup
 	WebElement txtPassword;
 	
-	@FindBy(name="btnLogin")
+	@FindBy(name="login")
 	@CacheLookup
 	WebElement btnLogin;
 	
+	@FindBy(xpath="(//*[local-name()='svg'])[10]")
+	@CacheLookup
+	WebElement logoutDrop;
 	
-	@FindBy(xpath="/html/body/div[3]/div/ul/li[15]/a")
+	
+	@FindBy(xpath="//span[text()='Log Out']")
 	@CacheLookup
 	WebElement lnkLogout;
 	
@@ -50,6 +54,11 @@ public class LoginPage {
 	{
 		btnLogin.click();
 	}	
+	
+	public void accountDrop() 
+	{
+		logoutDrop.click();	
+	}
 	
 	public void clickLogout()
 	{
